@@ -24,5 +24,5 @@ Interfaces like `IVendingMachine` allow different vending machine types to imple
 
 To execute: `dotnet run`.
 
-Fabián Orozco Chaves - B95690
+Fabián Orozco Chaves  
 Example source: [Learn SOLID Principles by Building a Simple App](https://medium.com/@hdmdhr/learn-solid-principles-by-building-a-simple-app-2111184df426).
